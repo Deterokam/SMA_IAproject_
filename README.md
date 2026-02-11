@@ -1,2 +1,2 @@
-# ma premiere modif 
+# artificial intelligence project
 ia project 
